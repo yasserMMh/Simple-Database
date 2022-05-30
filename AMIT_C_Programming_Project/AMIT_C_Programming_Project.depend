@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1644067665 source:/home/yasser/Embedded System/Sessions/AMIT_C_Programming_Project/main.c
+	"header/SimpleDb.h"
+
+1644058592 /home/yasser/Embedded System/Sessions/AMIT_C_Programming_Project/header/SimpleDb.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1644064389 source:/home/yasser/Embedded System/Sessions/AMIT_C_Programming_Project/src/SimpleDb.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
